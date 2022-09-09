@@ -1,0 +1,10 @@
+.subscribe-btn {
+    width: 250px;
+    padding: 2px;
+    border: none;
+    border-radius: 4px;
+    background-color: white;
+    color: aqua;
+    font-weight: 600;
+    font-size: 18px;
+}
