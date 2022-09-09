@@ -13,3 +13,28 @@
     height: 200px;
     width: 200px;
 }
+
+.logo {
+    margin-left: -61px;
+}
+
+
+
+.logo ul li {
+    text-decoration: none;
+    list-style-type: none;
+    margin: 25px;
+}
+
+.fa-brands {
+    color: white;
+    padding: 10px;
+    font-size: 25px;
+
+}
+
+.footer-icon {
+    /* background-color: antiquewhite; */
+    margin-left: 664px;
+
+}
